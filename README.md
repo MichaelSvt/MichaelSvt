@@ -7,6 +7,7 @@ I completed my master's thesis "Pruning-aware tokenization in Vision Transformer
 
 - Machine Learning
 - Computer Vision
+- Natural Language Processing
 - Multimodal & Generative AI
 - Deep Learning Architectures
 - Algorithms

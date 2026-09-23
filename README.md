@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 I'm a Computer Science Master's graduate from The Hebrew University of Jerusalem.
 I completed my master's thesis "Pruning-aware tokenization in Vision Transformers" under the supervision of Prof. Raanan Fattal.
 

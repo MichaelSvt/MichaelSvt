@@ -11,10 +11,10 @@ My research interests include machine learning, computer vision, generative mode
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-svitlizky/) 
-
+[![Gmail](https://img.shields.io/badge/-dan8oren@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dan8oren@gmail.com)](mailto:michaelsvitlizky@gmail.com)
 ---
 
-## 💻 Tech Stack
+## 💻 Languages & Tools
 
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)

@@ -10,8 +10,8 @@ My research interests include machine learning, computer vision, generative mode
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-svitlizky/) 
-[![Gmail](https://img.shields.io/badge/-dan8oren@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dan8oren@gmail.com)](mailto:michaelsvitlizky@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/dan-oren-0abb01230/]([https://www.linkedin.com/in/michael-svitlizky/))](https://www.linkedin.com/in/dan-oren-0abb01230/](https://www.linkedin.com/in/michael-svitlizky/))
+[![Gmail](https://img.shields.io/badge/-dan8oren@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:michaelsvitlizky@gmail.com)](mailto:michaelsvitlizky@gmail.com)
 ---
 
 ## 💻 Languages & Tools
